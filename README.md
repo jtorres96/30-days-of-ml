@@ -1,2 +1,2 @@
 # 30-days-of-ml
-My submissions and models for Kaggle's "30 Days of ML" challenge, hosted in August of 2021.  
+My submissions and models for Kaggle's "30 Days of ML" challenge, hosted in August of 2021. Amazing learning experience, the first half of the challenge consisted in completing the Python, Intro to Machine Learning and Intermediate Machine Learning courses on Kaggle, and on the second half we worked in building a model that predicted targets on a dataset specifically built for the competition.  
